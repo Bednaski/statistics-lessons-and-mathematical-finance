@@ -1,7 +1,10 @@
 # statistics-lessons-and-mathematical-finance
-Aulas gravadas de Estatística e Matemática Financeira com exemplos e explicações. *English: My recorded lessons in statistics and financial mathematics in Portuguese
+Aulas gravadas de Estatística e Matemática Financeira com exemplos e explicações. 
+
+*English: My recorded lessons in statistics and financial mathematics in Portuguese
 
  # Aulas de Estatística em português
+ _Meu canal:_ https://www.youtube.com/channel/UCASvngCjjHv05nulE2uv3vw?view_as=subscriber
  
  _Gravei minhas explicações feitas nas aulas de Estatística nos cursos de Administração/Economia/Turismo para ajudar no entendimento da teoria._
  
